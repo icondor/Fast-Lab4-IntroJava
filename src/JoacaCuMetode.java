@@ -18,6 +18,7 @@ public class JoacaCuMetode {
         String extensie = cale.substring(delacat);
         System.out.println(extensie);
 
+        //
 
     }
 }
